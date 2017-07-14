@@ -1,2 +1,4 @@
 This is second test file for learning GIT commit on remote
 Check that 
+Check Diff command 
+Recheck
