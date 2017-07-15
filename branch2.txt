@@ -1,2 +1,3 @@
 This is a file introduced in branch 2
-Updated in branch 2 updated in master 
+
+Name Branch:branch 2
