@@ -4,4 +4,5 @@ Check Diff command
 Recheck
 Chekin done in branch1
 Second checkin in brnach 1
+updated in branch 2
 updated in master branch
