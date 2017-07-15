@@ -1,2 +1,1 @@
 This is a file introduced in branch 2
-updated in Master branch
